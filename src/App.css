@@ -1,0 +1,40 @@
+*{                  
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(24, 24, 24);
+    height: 10vh;  
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.tittle{
+    color:white;
+    font-size: 25px;
+    font-weight:lighter;
+    text-transform: uppercase;
+    max-width: max-content;
+    margin-left: 2rem;
+}
+
+.cat{
+    color:white;
+    font-size: 18px;
+    
+}
+
+.icon{
+    margin-right: 2rem;
+    font-size: 30px;
+    color: white;
+}
+
+
